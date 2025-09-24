@@ -1,2 +1,3 @@
 # version-control-exersices
-For the data preperation course, tutorial 3
+# Marketing Analytics Masters
+## This repository is made for the data preperation course, tutorial 3
